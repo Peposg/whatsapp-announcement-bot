@@ -25,7 +25,7 @@ A simple but powerful open-source WhatsApp automation tool for quickly sending a
 
 ***
 
-## 🖥️ Setup & Usage
+## Setup & Usage
 
 1. **Clone the repository**
     ```bash
@@ -51,7 +51,7 @@ A simple but powerful open-source WhatsApp automation tool for quickly sending a
 
 ***
 
-## ⚡️ Advanced
+## Advanced
 - **Integrate with Python or other scripts:**
   - Automate your bot to send parsed content from sources like email (e.g., parse emails and run this bot to share updates)
 - **Send to private chats:**
@@ -69,12 +69,12 @@ A simple but powerful open-source WhatsApp automation tool for quickly sending a
 
 ***
 
-## 🛠️ Contributing
+## Contributing
 Pull requests and suggestions are welcomed! Please open issues for bugs or feature requests.
 
 ***
 
-## 🙌 Credits
+## Credits
 - Inspired by open-source WhatsApp automation projects and the amazing [`whatsapp-web.js`](https://github.com/pedroslopez/whatsapp-web.js) community.
 
 [1](https://github.com/topics/whatsapp-bot)
